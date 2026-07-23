@@ -1,3 +1,5 @@
+<img width="1368" height="289" alt="Screenshot 2026-07-23 at 1 16 17 AM" src="https://github.com/user-attachments/assets/1acc5d7e-95b9-4ff0-9bea-58984ca489d7" />
+
 Data Observability Sample App
 
 A minimal, self-contained example of building and deploying a data-quality dashboard as a Databricks App. Built to walk through the full loop — simulated data → Streamlit dashboard → GitHub → Databricks Apps deployment via Git — using nothing but a free Databricks workspace and a GitHub repo.
